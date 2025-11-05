@@ -141,12 +141,7 @@ flowchart TD
 
 ---
 
-If you want, I can:
-- Render the Mermaid diagram to an image and add it to the repo.
-- Add a sample `.env.example` (without secrets).
-- Implement PDF upload + incremental indexing in the Streamlit app.
-
-Open the file in your editor or refresh the repo to preview this README.
+.
 
 
 
