@@ -1,4 +1,4 @@
-# Medical-Chatbot — Project README
+#  MedAssist: An AI-Powered medical Information Retrieval Chatbot using RAG– Langchain
 
 
 ## This is project started as a small Retrieval-Augmented Generation (RAG) demo to make a Streamlit-based chatbot that answers medical questions from a set of PDF documents. Goals:
