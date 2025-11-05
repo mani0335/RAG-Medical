@@ -1,8 +1,7 @@
 # Medical-Chatbot — Project README
 
 
-## Project origin — where we started
-This project started as a small Retrieval-Augmented Generation (RAG) demo to make a Streamlit-based chatbot that answers medical questions from a set of PDF documents. Goals:
+## This is project started as a small Retrieval-Augmented Generation (RAG) demo to make a Streamlit-based chatbot that answers medical questions from a set of PDF documents. Goals:
 - Ingest PDF reference material (data/).
 - Build a FAISS vector store of chunk embeddings.
 - Use an LLM to synthesize concise, sourced answers from retrieved passages.
