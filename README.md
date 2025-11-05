@@ -1,6 +1,5 @@
 # Medical-Chatbot — Project README
 
-Last updated: 2025-11-04
 
 ## Project origin — where we started
 This project started as a small Retrieval-Augmented Generation (RAG) demo to make a Streamlit-based chatbot that answers medical questions from a set of PDF documents. Goals:
